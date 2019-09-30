@@ -1,0 +1,9 @@
+/bin/
+/Screenshots/
+/Report/
+/Logs/
+/TestData/
+/Configurations/Config.properties
+/build/
+/.gradle/
+/test-output/
